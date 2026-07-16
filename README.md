@@ -98,24 +98,29 @@ The application allows users to browse products, view product images stored in A
 SmartCart-Scalable-ECommerce-on-AWS
 │
 ├── index.html
-├── images/
-│   ├── laptop.jpg
-│   ├── phone.jpg
-│   ├── shoes.jpg
-│   └── bag.jpg
+├── lambda_function.py
 ├── README.md
 ├── architecture.png
-├── screenshots/
-│   ├── website.png
-│   ├── ec2.png
-│   ├── s3.png
-│   ├── lambda.png
-│   ├── apigateway.png
-│   ├── dynamodb.png
-│   ├── alb.png
-│   ├── autoscaling.png
-│   ├── cloudwatch.png
-│   └── targetgroup.png
+├── Product Sample Images/
+│   ├── Bag.jpeg
+│   ├── Shirt.jpeg
+│   ├── Shoe.jpeg
+│   └── Watch.jpeg
+├── Demo Screenshots/
+│   ├── An website.png
+│   ├── Category Wise.png
+│   ├── Search.png
+│   ├── Website Product Added to Cart.png
+│   └── Website See Cart Products.png
+└── Implementation/
+    ├── 2 ec2 Formed.png
+    ├── ALB.png
+    ├── An S3 Bucket.png
+    ├── Api Gateway.png
+    ├── Auto Scaling.png
+    ├── SmartCart Table (Products) Dynamo DB.png
+    ├── SmartCartCart Table (Shopping Cart) Dynamo DB.png
+    └── Target Group.png
 ```
 
 ## 📊 Project Highlights
