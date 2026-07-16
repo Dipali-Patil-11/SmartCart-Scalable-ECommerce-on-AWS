@@ -120,7 +120,7 @@ SmartCart-Scalable-ECommerce-on-AWS
     ├── Auto Scaling.png
     ├── SmartCart Table (Products) Dynamo DB.png
     ├── SmartCartCart Table (Shopping Cart) Dynamo DB.png
-    └── Target Group.png
+    └── A Target Group.png
 ```
 
 ## 📊 Project Highlights
